@@ -11,5 +11,4 @@ public class OperatorCast {
 		System.out.println(lastScore);
 		System.out.println(gameScore);
 	}
-
 }

@@ -45,8 +45,6 @@ public class DataType {
 		System.out.println(han);
 		System.out.println(ch4);
 		
-		
 		// 2. 참조자료형
 	}
-
 }

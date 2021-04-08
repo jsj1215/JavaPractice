@@ -31,7 +31,5 @@ public class TypeConversionTest {
 		
 		myNum = myNum += yourNum;
 		System.out.println(myNum);
-		
 	}
-
 }
