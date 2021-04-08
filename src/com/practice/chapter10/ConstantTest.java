@@ -1,4 +1,4 @@
-package com.practice.Chapter10;
+package com.practice.chapter10;
 
 public class ConstantTest {
 

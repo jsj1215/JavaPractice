@@ -1,4 +1,4 @@
-package com.practice.Chapter11;
+package com.practice.chapter11;
 
 public class OperatorCast {
 
